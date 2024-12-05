@@ -1,0 +1,6 @@
+CustomerID,Name,City,SignUpDate,TotalOrders,LastOrderDate,Discount
+1001,John Doe,Mumbai,2023-12-01,10,2024-01-15,0.05
+1002,Alice Johnson,Bangalore,2024-01-02,3,2024-01-15,0.05
+1003,Bob Smith,Pune,2023-11-25,2,2024-01-15,0.05
+1004,Charlie Brown,Delhi,2023-10-10,1,2024-01-15,0.05
+1005,Eve Miller,Mumbai,2023-12-20,5,2024-01-10,0.05

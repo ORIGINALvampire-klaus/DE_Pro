@@ -1,0 +1,4 @@
+2024-11-12 11:28:53,250 - ETLPipeline - INFO - Configuration loaded successfully.
+2024-11-12 11:28:53,251 - ETLPipeline - INFO - Starting ETL pipeline.
+2024-11-12 11:28:53,624 - ETLPipeline - INFO - Connection to SQL Server was successful.
+2024-11-12 11:28:53,781 - ETLPipeline - INFO - SQL Server connection closed.
